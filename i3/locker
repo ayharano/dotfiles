@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+/usr/bin/i3lock --color=000000 && /usr/bin/sleep 2 && /usr/bin/xset dpms force standby && /usr/bin/sleep 10 && /usr/bin/xset dpms force off
